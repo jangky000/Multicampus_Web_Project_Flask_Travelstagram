@@ -1,0 +1,8 @@
+html소스를 통째로 크롤링 했을때
+검색마다 업데이트를 위해서는 
+DOM 객체로 전달하여 -> jquery xml 파싱을 이용해야함
+
+또는
+html로 저장후 include된 html파일을 검색마다 업데이트하기 위해
+app.config['TEMPLATES_AUTO_RELOAD'] = True
+app.run()
