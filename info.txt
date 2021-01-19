@@ -1,6 +1,0 @@
-2018 겨울 청년 취업 아카데미 
-빅데이터를 활용한 파이썬 프로그래밍 F반
-4조 프로젝트
-
-인스타 크롤링 참조 링크
-https://github.com/parkjoo37/Instagram_Hashtags_Crawler/blob/master/instagram_hashtags.ipynb
