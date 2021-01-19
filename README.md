@@ -43,4 +43,4 @@
 
 ## 시연 발표 자료 ppt 다운로드
 
-[https://github.com/jangky000/Multicampus_Web_Project_Flask_Travelstagram/blob/master/docs/4%EC%A1%B0%20Travelstagram.pptx](https://github.com/jangky000/Multicampus_Web_Project_Flask_Travelstagram/blob/master/docs/4%EC%A1%B0%20Travelstagram.pptx)
+[https://github.com/jangky000/Multicampus_Web_Project_Flask_Travelstagram/raw/master/docs/4%EC%A1%B0%20Travelstagram.pptx](https://github.com/jangky000/Multicampus_Web_Project_Flask_Travelstagram/raw/master/docs/4%EC%A1%B0%20Travelstagram.pptx)
